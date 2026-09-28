@@ -7,7 +7,7 @@ A responsive personal portfolio website for **Satyanshu Suman**, built using onl
 - JavaScript
 
 The website presents Satyanshu's profile, skills, projects, learning focus, and contact information in a modern light-first interface with a dark-mode toggle.
-## LIVE DEMO LINK : [https://kaiju-x.github.io/Satyanshu-portfolio/](https://satyanshu-u.github.io/Portfolio-/)
+## LIVE DEMO LINK : https://satyanshu-u.github.io/Portfolio-/
 ---
 
 # 📌 Table of Contents
